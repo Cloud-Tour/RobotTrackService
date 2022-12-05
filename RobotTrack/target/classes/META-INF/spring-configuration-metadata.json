@@ -1,0 +1,62 @@
+{
+  "groups": [
+    {
+      "name": "baidu",
+      "type": "com.zkd.robotTrack.config.BaiduConfig",
+      "sourceType": "com.zkd.robotTrack.config.BaiduConfig"
+    },
+    {
+      "name": "rsa",
+      "type": "com.zkd.robotTrack.config.RSAConfig",
+      "sourceType": "com.zkd.robotTrack.config.RSAConfig"
+    },
+    {
+      "name": "wx",
+      "type": "com.zkd.robotTrack.config.WeiXinConfig",
+      "sourceType": "com.zkd.robotTrack.config.WeiXinConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "baidu.ak",
+      "type": "java.lang.String",
+      "sourceType": "com.zkd.robotTrack.config.BaiduConfig"
+    },
+    {
+      "name": "baidu.server-id",
+      "type": "java.lang.String",
+      "sourceType": "com.zkd.robotTrack.config.BaiduConfig"
+    },
+    {
+      "name": "baidu.url",
+      "type": "java.lang.String",
+      "sourceType": "com.zkd.robotTrack.config.BaiduConfig"
+    },
+    {
+      "name": "rsa.private-str",
+      "type": "java.lang.String",
+      "sourceType": "com.zkd.robotTrack.config.RSAConfig"
+    },
+    {
+      "name": "rsa.publish-str",
+      "type": "java.lang.String",
+      "sourceType": "com.zkd.robotTrack.config.RSAConfig"
+    },
+    {
+      "name": "wx.app-id",
+      "type": "java.lang.String",
+      "sourceType": "com.zkd.robotTrack.config.WeiXinConfig"
+    },
+    {
+      "name": "wx.secret",
+      "type": "java.lang.String",
+      "sourceType": "com.zkd.robotTrack.config.WeiXinConfig"
+    },
+    {
+      "name": "wx.url",
+      "type": "java.lang.String",
+      "sourceType": "com.zkd.robotTrack.config.WeiXinConfig"
+    }
+  ],
+  "hints": []
+}
